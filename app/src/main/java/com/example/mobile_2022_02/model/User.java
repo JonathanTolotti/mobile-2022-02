@@ -1,4 +1,4 @@
-package com.example.mobile_2022_02.Model;
+package com.example.mobile_2022_02.model;
 
 import java.util.List;
 

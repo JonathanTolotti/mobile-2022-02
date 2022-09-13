@@ -6,7 +6,7 @@ import android.util.Log;
 import android.widget.Toast;
 
 import com.example.mobile_2022_02.DashboardActivity;
-import com.example.mobile_2022_02.Model.User;
+import com.example.mobile_2022_02.model.User;
 import com.example.mobile_2022_02.Repository.UserRepository;
 
 import java.util.List;
